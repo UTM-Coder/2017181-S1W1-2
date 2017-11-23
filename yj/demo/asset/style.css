@@ -3,5 +3,7 @@ p{
 }
 
 .myParentClass .myFirstClass {
-	color: #0000FF;
+
+	color:#808000;
+
 }
