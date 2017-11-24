@@ -1,0 +1,11 @@
+body {
+   background: #A6ACAF;
+}
+
+.title {color: blue}
+.paragraph{color: orange}
+
+p {
+    margin-left: 30px;
+ 
+}
